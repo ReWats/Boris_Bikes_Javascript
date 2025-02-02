@@ -1,0 +1,13 @@
+{
+    "name": "boris_bikes",
+    "version": "1.0.0",
+    "description": "create a more cost effective version of Boris Bikes",
+    "main": "src/boris-bikes.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "authors": "Megan and Rebecca",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
